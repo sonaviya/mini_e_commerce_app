@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
     return BlocBuilder<SettingsCubit, SettingsState>(
       builder: (context, settings) {
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
           title: 'Mini E-Commerce',
           theme: ThemeData.light(),
           darkTheme: ThemeData.dark(),
