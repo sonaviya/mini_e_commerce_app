@@ -60,6 +60,10 @@ flutter run
 
 flutter test
 
+## Demo Video link
+
+https://drive.google.com/file/d/1nx3safEMMwqpGYpQtKnKeQvKu-Mb0h6V/view?usp=sharing
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
